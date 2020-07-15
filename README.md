@@ -1,4 +1,4 @@
-# FetchOmdbApiData
+# Omdb-Api-Project
 "In the I fetch data in OmdbApi by id in NodeJs"
 
 #Use Framework
