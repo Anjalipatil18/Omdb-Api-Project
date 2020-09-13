@@ -13,7 +13,7 @@
     "hapi": "^18.1.0",
     "joi": "^14.3.1",
     "mongoose": "^5.9.24",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "request": "^2.88.2"
   },
   "devDependencies": {
